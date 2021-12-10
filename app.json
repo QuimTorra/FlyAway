@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "comVulguis",
+    "slug": "comVulguis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "comVulguis"
+}
