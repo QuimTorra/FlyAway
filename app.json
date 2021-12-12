@@ -1,11 +1,19 @@
 {
   "expo": {
-    "name": "comVulguis",
-    "slug": "comVulguis",
+    "name": "FlyAway",
+    "slug": "FlyAway",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.aburritsdev.flyaway",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.aburritsdev.flyaway",
+      "versionCode": 1
+    }
   },
-  "name": "comVulguis"
+  "name": "FlyAway"
 }
