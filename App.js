@@ -119,7 +119,7 @@ export default class App extends React.Component {
       return (
         <View style={styles.fullscreen}>
           <View className='header' style={styles.header} >
-            <Text style={styles.appTitle}>ASTUPENDU</Text>
+            <Text style={styles.appTitle}>Afegir Record</Text>
             <Image source={require("./img/logo.png")} style={styles.logoImg} />
           </View>
           
@@ -201,7 +201,7 @@ export default class App extends React.Component {
       return (
         <View style={styles.fullscreen}>
           <View className='header' style={styles.header} >
-            <Text style={styles.appTitle}>ASTUPENDU</Text>
+            <Text style={styles.appTitle}>Afegir Multimèdia</Text>
             <Image source={require("./img/logo.png")} style={styles.logoImg} />
           </View>
           
